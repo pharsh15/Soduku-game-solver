@@ -18,28 +18,16 @@ Driver File. GUI designed inside it. Contains various functions (can be understo
 ## How to Play ⁉⚙
 1. Run ▶ the "Sudoku.py" file (source code). A window with empty Sudoku board will be shown.
 2. To Play a game.
-👉 Fill the numbers to set a game.
-👉 Click on "Play" button.
-👉 Now, start playing (solving) the game. When done, click on "Check" Button.
+Fill the numbers to set a game.
+Click on "Play" button.
+Now, start playing (solving) the game. When done, click on "Check" Button.
 3. To Solve the game/puzzle.
-👉 If stuck & want the solution, click on "Solve" Button.
+If stuck & want the solution, click on "Solve" Button.
 4. To Save game details.
-👉 Click on "Save Record" Button.
+Click on "Save Record" Button.
 5. To peek on the games played so far.
-👉 Click on "History" Button.
+Click on "History" Button.
 6. To Clear the values filled in.
-👉 Click on "Clear" Button.
+Click on "Clear" Button.
 
-## Caution ⚠
-1. ⚠ Mandatory to click on "Play" after setting the values. Otherwise, "Check" won't work.
-2. ⚠ Unsolvable Sudoku Puzzles not supported till date (Searching for solution to this).
-3. ⚠ On clicking "Solve", values filled in the board till that time will be considered.
-4. ⚠ Code Specific: For connection to MySQL database, remember to use "username" and "password" as per your system.
-5. ⚠ All the files should be in a single directory. Otherwise, You've to make changes to the import statements.
-6. ⚠ Remember to install MySQL database & the MySQL Python connector.
-7. ⚠ Unsolvable puzzles puts the GUI into a long recursive loop. It may look like the GUI Window has been freezed (which is not).
 
-## References 🔍
-1. https://www.youtube.com/watch?v=xAXmfZmC2SI&t=0s
-2. https://www.youtube.com/watch?v=OF0H0B0IuFM
-## Being updated 💬
